@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Moedasbase',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.yellow),
-      home: MoedasPage(),
+      home: const MoedasPage(),
     );
   }
 }

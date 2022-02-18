@@ -12,7 +12,7 @@ O projeto desenvolvido é um app que simula as informações de Cripto Moedas em
 
 <p align="center">
   <kbd>
-    <img width="750" style="border-radius: 10px" height="550" src="./imgreadme/flutterapp.PNG" alt="Intro">
+    <img width="550" style="border-radius: 10px" height="550" src="./imgreadme/flutterapp.PNG" alt="Intro">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
